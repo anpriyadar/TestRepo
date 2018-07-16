@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/animesh.p/.android/build-cache/b171e6e5f1539032c13809394a402cb4b126dadf/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_30ba81b557df3a7702a16d4c1e998032b8cf44a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/animesh.p/Desktop/Comet/Comet/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="25b8cd87cca130b10be7bbec4508bfcc053dcd25">
+        <dex dex="/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/pre-dexed/debug/classes_f5e06e8b00407b54b4abb69ae063b72e6d55cee4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/animesh.p/.android/build-cache/b171e6e5f1539032c13809394a402cb4b126dadf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/pre-dexed/debug/classes_b25c235500efc285729739b6f70fbf67f8a2a00d.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/animesh.p/.android/build-cache/7c1bfb36c046267505aba539c5ed79c470326a96/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
+        "source": "/Users/animesh.p/.android/build-cache/615e72af05072005d2ebbbeb82ca68de904bbf3b/output/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/drawable-v21/abc_btn_colored_material.xml"
+    }
+]

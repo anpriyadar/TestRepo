@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher_round.png",
+        "source": "/Users/animesh.p/Desktop/Comet/Comet/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/mipmap-xhdpi/ic_launcher.png",
+        "source": "/Users/animesh.p/Desktop/Comet/Comet/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]

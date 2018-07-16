@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/color-v23/abc_tint_seek_thumb.xml"
+    }
+]

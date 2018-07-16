@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/animesh.p/.android/build-cache/b171e6e5f1539032c13809394a402cb4b126dadf/output/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/animesh.p/.android/build-cache/b171e6e5f1539032c13809394a402cb4b126dadf/output/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/animesh.p/.android/build-cache/b171e6e5f1539032c13809394a402cb4b126dadf/output/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/animesh.p/.android/build-cache/b171e6e5f1539032c13809394a402cb4b126dadf/output/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/no_animation.xml",
+        "source": "/Users/animesh.p/Desktop/Comet/Comet/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/no_animation.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/tooltip_enter.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/pop.xml",
+        "source": "/Users/animesh.p/Desktop/Comet/Comet/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/pop.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/tooltip_exit.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/animesh.p/Desktop/Comet/Comet/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/animesh.p/Desktop/Comet/Comet/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/animesh.p/.android/build-cache/b171e6e5f1539032c13809394a402cb4b126dadf/output/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/animesh.p/.android/build-cache/b171e6e5f1539032c13809394a402cb4b126dadf/output/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/Users/animesh.p/Desktop/Comet/Comet/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/animesh.p/.android/build-cache/39fde5b7376f6c7b1e21d8256553dca35a98b944/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/animesh.p/.android/build-cache/62ebeac67e5f61937dcc75caad201dd4cac13ca9/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/lightbox_enter.xml",
+        "source": "/Users/animesh.p/Desktop/Comet/Comet/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/lightbox_enter.xml"
+    },
+    {
+        "merged": "/Users/animesh.p/Desktop/Comet/Comet/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/animesh.p/Desktop/Comet/Comet/node_modules/react-native-navigation/android/app/build/intermediates/bundles/default/res/anim/slide_down.xml"
+    }
+]
